@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '37828'
     url: http://www.gutenberg.org/2009/agents/37828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35685#Man-Past-and-Present
 gutenberg_issued: '2011-03-26'
 gutenberg_type: Text
 identifiers:
