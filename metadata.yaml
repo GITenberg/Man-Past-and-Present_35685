@@ -1,0 +1,44 @@
+_repo: Man-Past-and-Present_35685
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keane, A. H. (Augustus Henry)
+    alias: Keane, Augustus H. (Augustus Henry)
+    birthdate: 1833
+    deathdate: 1912
+    gutenberg_agent_id: '37827'
+    url: http://www.gutenberg.org/2009/agents/37827
+  editors:
+  - agent_name: Haddon, Alfred C. (Alfred Cort)
+    aliases:
+    - Haddon, A. C. (Alfred Cort)
+    - Haddon, Alfred Cort
+    birthdate: 1855
+    deathdate: 1940
+    gutenberg_agent_id: '32226'
+    url: http://www.gutenberg.org/2009/agents/32226
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Cort_Haddon
+  - agent_name: Quiggin, A. Hingston (Alison Hingston)
+    alias: Quiggin, Alison Hingston
+    birthdate: 1874
+    gutenberg_agent_id: '37828'
+    url: http://www.gutenberg.org/2009/agents/37828
+description: ''
+gutenberg_issued: '2011-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35685'
+  lccn: '20011174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anthropology'
+- !lcc 'GN'
+- !lcsh 'Ethnology'
+title: Man, Past and Present
+url: http://www.gutenberg.org/ebooks/35685
